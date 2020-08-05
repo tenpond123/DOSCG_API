@@ -8,4 +8,4 @@ npm install
 
 After you install node_modules,you can run this project with command:
 
-npm start
+npm run start
